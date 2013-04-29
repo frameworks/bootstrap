@@ -1,0 +1,6 @@
+{
+	"name": "frameworks/bootstrap",
+	"require": {
+		"frameworks/jquery" : "*"
+	}	
+}
